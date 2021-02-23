@@ -1,3 +1,5 @@
 first commit
 change
 git 4th commit
+git 5th commit
+git 6th commit //retained 6th commit
