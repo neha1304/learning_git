@@ -3,6 +3,3 @@ change
 git 4th commit
 git 5th commit
 git 6th commit //retained 6th commit
-git 7th commit
-git  9th commit
-git  10th commit
